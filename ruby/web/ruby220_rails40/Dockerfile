@@ -1,6 +1,6 @@
 # From: https://github.com/codenvy/dockerfiles/blob/master/ruby/web/ruby210_rails403/Dockerfile
 
-FROM codenvy/ruby210_rails403
+FROM hamled/ruby220_rails40
 
 RUN mkdir /tmp/application /home/user/application
 
